@@ -1,0 +1,137 @@
+body {
+  background: white;
+}
+
+#hero {
+  font-family: 'Teko', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #a2d2df;
+  background: url(../img/1.png);
+  height: 72vh;
+  background: cover;
+  background-position-y: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+#button1 a {
+  text-decoration: none !important;
+  color: #a2d2df;
+}
+
+#hero h1 {
+  font-size: 10vw;
+}
+
+#headingtext {
+  margin-top: 100px;
+}
+
+#welcometext {
+  margin-top: 100px;
+}
+
+#headingtext {
+  margin-top: 100px;
+}
+
+#section0 {
+  margin-top: 100px;
+}
+
+#section1 {
+  margin-top: 100px;
+}
+
+#section2 {
+  margin-top: 100px;
+}
+
+#middle {
+  margin-top: 100px;
+  height: 200px;
+  padding: 5%;
+  font-family: 'Teko', sans-serif;
+}
+
+#middle p {
+  color: #ffd394;
+}
+
+#footer {
+  margin-top: 100px;
+  height: 10%;
+  padding: 50px;
+  margin-bottom: 100px;
+  text-decoration: none !important;
+}
+
+.display-3 {
+  font-size: 5vw;
+}
+
+.card-group {
+  margin-top: 2%;
+}
+
+.btn {
+  margin: 0px;
+  text-decoration: none !important;
+}
+
+#hero2 {
+  background: url(../img/model3.png);
+  height: 72vh;
+  background: cover;
+  background-position-y: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#hero2 h1 {
+  font-size: 10vw;
+  font-family: 'Teko', sans-serif;
+  color: #cc3700;
+}
+
+#hero2 h2 {
+  font-size: 4vw;
+  font-family: 'Teko', sans-serif;
+  color: white;
+}
+
+#hero3 {
+  background: url(../img/art.png);
+  height: 72vh;
+  background: cover;
+  background-position-y: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#hero3 h1 {
+  font-size: 8vw;
+  font-family: 'Teko', sans-serif;
+  color: white;
+}
+
+#hero3 h2 {
+  font-size: 6vw;
+  font-family: 'Teko', sans-serif;
+  color: white;
+}
+
+#info {
+  height: 200px;
+}
+
+#contactform {
+  margin-bottom: 300px;
+}
+/*# sourceMappingURL=style.css.map */

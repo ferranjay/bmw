@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Plane Crash';
+    src: url('PlaneCrash.eot');
+    src: url('PlaneCrash.eot?#iefix') format('embedded-opentype'),
+        url('PlaneCrash.woff2') format('woff2'),
+        url('PlaneCrash.woff') format('woff'),
+        url('PlaneCrash.svg#PlaneCrash') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
